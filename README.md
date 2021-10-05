@@ -1,2 +1,6 @@
-# -Frontend-Developer-Crash-Course
-The 2020 Frontend Developer Crash Course for Absolute Beginners
+Crash Course
+...
+Front End Development
+...
+Source: The 2020 Frontend Developer Crash Course for Absolute Beginners
+By: DesignCourse
